@@ -1,0 +1,9 @@
+
+paddleocr==3.2.0
+paddlepaddle==3.3.1
+paddlex==3.2.1
+PyMuPDF
+opencv-python
+numpy
+Pillow
+pythainlp
