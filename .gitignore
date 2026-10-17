@@ -1,0 +1,21 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OCR input documents
+input_pdfs/
+
+# Generated OCR output
+output_json/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE settings
+.vscode/
