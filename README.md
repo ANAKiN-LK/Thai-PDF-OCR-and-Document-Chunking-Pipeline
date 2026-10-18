@@ -89,7 +89,7 @@ python pdf_ocr_chunking.py
 If the script supports command-line options, check its argument definitions or run:
 
 ```bash
-python pdf_ocr_chunking.py --help
+python pdf_ocr_chunking.py --input-dir input_pdfs --output-dir output_json 
 ```
 
 ### 3. Review the output
