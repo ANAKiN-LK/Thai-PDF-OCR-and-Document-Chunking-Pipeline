@@ -83,13 +83,13 @@ For scanned PDFs, OCR is required to extract text from page images.
 ### 2. Run the pipeline
 
 ```bash
-python pdf_ocr_chunking.py
+python pdf_ocr_chunking.py --input-dir input_pdfs --output-dir output_json 
 ```
 
 If the script supports command-line options, check its argument definitions or run:
 
 ```bash
-python pdf_ocr_chunking.py --input-dir input_pdfs --output-dir output_json 
+python pdf_ocr_chunking.py --help
 ```
 
 ### 3. Review the output
