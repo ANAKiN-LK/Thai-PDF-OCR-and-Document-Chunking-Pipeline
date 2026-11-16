@@ -1,4 +1,4 @@
-# Thai PDF OCR and Document Chunking Pipeline
+# Paddle OCR Document Chunking Pipeline
 
 A Python-based pipeline for extracting text and table information from PDF documents using OCR, then organizing the results into JSONL files for downstream processing and Retrieval-Augmented Generation (RAG).
 
